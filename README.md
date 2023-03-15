@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# TextConverter
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is my first project using ReactJs where I have developed a website that takes text as input and converts it into UpperCase, LowerCase and capitalizes the initial letter of every word.
 
 ## Available Scripts
 
