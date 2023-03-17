@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TextConverter-using-React/static/css/main.cb1528eb.css",
+    "main.js": "/TextConverter-using-React/static/js/main.a7cb5b75.js",
+    "index.html": "/TextConverter-using-React/index.html",
+    "main.cb1528eb.css.map": "/TextConverter-using-React/static/css/main.cb1528eb.css.map",
+    "main.a7cb5b75.js.map": "/TextConverter-using-React/static/js/main.a7cb5b75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb1528eb.css",
+    "static/js/main.a7cb5b75.js"
+  ]
+}
