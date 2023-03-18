@@ -2,6 +2,9 @@
 
 This is my first project using ReactJs where I have developed a website that takes text as input and converts it into UpperCase, LowerCase and capitalizes the initial letter of every word.
 
+## Visit the Website
+https://aman2620.github.io/TextConverter-using-React/
+
 ## Available Scripts
 
 In the project directory, you can run:
